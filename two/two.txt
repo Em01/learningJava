@@ -1,0 +1,8 @@
+Multiple variables
+String one = console.readLine("Enter your name:  ");
+String two = console.readLine("Enter a number:  ");
+
+console.printf("%s is like %s", one, two);
+
+Topics:
+* Multiple variables
