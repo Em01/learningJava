@@ -1,0 +1,9 @@
+* int (whole numbers)
+
+* float (decimals)
+
+* double (large or accurate decimals)
+
+* boolean
+
+* String

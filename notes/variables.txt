@@ -1,0 +1,7 @@
+* Declare with type and then name:
+Button buttonOne;
+
+int myNumber = 4;
+myNumber = 1
+
+* The type that goes into the variable has to match the type of the variable itself
