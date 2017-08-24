@@ -27,3 +27,5 @@ if(something) {
 }
 else
   ...;
+
+-variables within a block have local scope

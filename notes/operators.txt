@@ -41,3 +41,14 @@ result /= val1 * val2;
 * additive ( + - )
 
 * can override with parens but these are evaluated from the inside out
+
+
+* Logical:
+- and &
+- or | (false | true, true | false, true|true)
+- exclusive or (XOR) ^ (have to be opposites false ^ true, true ^ false)
+- negation !
+
+* Conditional
+- and &&
+- or ||
