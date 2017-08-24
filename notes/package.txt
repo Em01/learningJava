@@ -2,3 +2,8 @@
 * all lowercase
 * affects file structure
 e.g com.emmaw
+preceeds class name
+com.emmaw.Main
+
+* IDR require sub folders to match package name
+e.g: src - com - emmaw - example...Main.java
