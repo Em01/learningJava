@@ -1,0 +1,2 @@
+* Ternary
+result = condition ? true : false;

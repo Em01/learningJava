@@ -1,0 +1,29 @@
+*if/else
+if(something)
+  do-something;
+else
+  so-something-else;
+
+- can use else if
+
+* Block statements group statements into a compound statement
+* Only use {} for block statements
+{
+  statement-1;
+  statement-2;
+  statement-3;
+}
+
+if(v1 > v2) {
+  v1 - v2;
+  System.out.println("1");
+  System.out.println("2");
+}
+
+* Nested
+if(something) {
+  if(something else)
+  ...;
+}
+else
+  ...;
