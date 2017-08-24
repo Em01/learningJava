@@ -1,0 +1,8 @@
+* Type conversions
+- Implicit which are performed automatically by the compiler
+- Widening conversions are automatic because we are moving to a wider data type
+always goes to the largest size.
+
+
+- Explicit
+long Lval = (int) lVal;
