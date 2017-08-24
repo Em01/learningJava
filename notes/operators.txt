@@ -12,3 +12,32 @@
 1. !
 2. &&
 3. ||
+
+* Math
++
+-
+*
+/
+%
+
+* Prefix/Postfix
+++
+--
+
+* Compound assignment
+-=
++=
+int myVal = 60
+myVal -= 5
+//55
+
+result /= val1 * val2;
+//2
+
+* Operator precedence
+* postfix
+* prefix
+* multiplicative (* / %)
+* additive ( + - )
+
+* can override with parens but these are evaluated from the inside out
