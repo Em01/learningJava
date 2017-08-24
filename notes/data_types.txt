@@ -1,0 +1,26 @@
+* Primitive data types:
+* Integer
+* Floating point
+* Character
+* Boolean
+
+* Int:
+-byte (smallest 8 bits) (-128 to 127)
+-short (16 bit) ( -32768 to 32768)
+-int (32 bit) (most common - to + billions)
+-long(64 bit) (must put L at end of the value)
+
+* Floating points
+- float ( 32 bit) (use f at end)
+- double (64 bit) (use d at end)
+
+* Character
+- stores a single unicode character - 'U';
+- can specify a unicode code point
+
+* Boolean
+- true
+- false
+
+* Primitive types are stored by value- each primitive type variable has its own seperate copy of the sata.
+* if you make value a, value b to equal value a, change value a, value a and value b will be different values

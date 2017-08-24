@@ -3,3 +3,5 @@
 * Run from terminal
 - javac MyFile.java
 * Myfile
+
+* strongly typed language
