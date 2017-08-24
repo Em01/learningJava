@@ -15,7 +15,7 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/emmaw/getorganized/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
+            <state relative-caret-position="29">
               <caret line="5" column="35" lean-forward="false" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
               <folding>
                 <element signature="e#97#98#0" expanded="true" />
@@ -67,6 +67,51 @@
             <path>
               <item name="organised" type="b2602c69:ProjectViewProjectNode" />
               <item name="organised" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="organised" type="b2602c69:ProjectViewProjectNode" />
+              <item name="organised" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="organised" type="b2602c69:ProjectViewProjectNode" />
+              <item name="organised" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="organised" type="b2602c69:ProjectViewProjectNode" />
+              <item name="organised" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+              <item name="organised" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="organised" type="b2602c69:ProjectViewProjectNode" />
+              <item name="organised" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+              <item name="organised" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="organised" type="b2602c69:ProjectViewProjectNode" />
+              <item name="organised" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+              <item name="organised" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="emmaw" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="organised" type="b2602c69:ProjectViewProjectNode" />
+              <item name="organised" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+              <item name="organised" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="emmaw" type="462c0819:PsiDirectoryNode" />
+              <item name="getorganized" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="organised" type="b2602c69:ProjectViewProjectNode" />
@@ -192,7 +237,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/emmaw/getorganized/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
+        <state relative-caret-position="29">
           <caret line="5" column="35" lean-forward="false" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
           <folding>
             <element signature="e#97#98#0" expanded="true" />
