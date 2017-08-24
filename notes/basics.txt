@@ -1,0 +1,5 @@
+* programming language & runtime env
+
+* Run from terminal
+- javac MyFile.java
+* Myfile

@@ -1,0 +1,4 @@
+* provides organisation
+* all lowercase
+* affects file structure
+e.g com.emmaw

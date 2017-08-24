@@ -1,0 +1,10 @@
+public void myMethod() {
+  System.out.println("Hi")
+}
+
+* void indicated no value should be returned by the method after it executes.
+* if you want to return a value specify the return type instead
+
+public int numberTest() {
+  return 4;
+}

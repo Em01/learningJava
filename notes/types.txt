@@ -7,3 +7,6 @@
 * boolean
 
 * String
+
+* Char (single characters - use single quotes)
+System.out.println('g')

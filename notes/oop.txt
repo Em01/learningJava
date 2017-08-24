@@ -1,0 +1,49 @@
+* Use class-java comes with a set of pre defined classes but we can create our own.
+
+class MyCar {
+
+
+}
+
+* Use constructors to create the state of our class - if you do not create a class constructor
+java provides one that does not allow you to set initial information.
+
+class myCar {
+  public myCar(){
+
+  }
+
+}
+
+* Class details are stored in instance variables
+
+class myCar {
+  int modelYear;
+
+  public myCar(int year) {
+    modelYear = year;
+  }
+
+}
+
+* Main method - Run when Java runs your program
+public static void main(String[] args) {
+
+}
+
+* To use the class you need to create an instance
+
+class Dog {
+  int age;
+
+  public Dog(int age) {
+    age = age;
+  }
+
+  public static void main(String[] args) {
+    Dog dogOne = new Dog(2);
+  }
+}
+
+* use extend to inherit
+class Car extends Vehicle {}
