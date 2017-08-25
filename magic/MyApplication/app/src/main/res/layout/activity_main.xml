@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.emmaw.myapplication.MainActivity">
+
+    <RelativeLayout
+        android:layout_width="336dp"
+        android:layout_height="592dp"
+        android:background="#26ade0"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="0dp">
+
+        <TextView
+            android:id="@+id/heading"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:text="@string/heading_text"
+            android:textAlignment="textStart"
+            android:textColor="@android:color/black"
+            android:textSize="20sp"
+            android:textStyle="bold"/>
+
+        <ImageView
+            android:id="@+id/image_eightBall"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:srcCompat="@drawable/ball1"/>
+
+        <Button
+            android:id="@+id/ask_id"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="#3F51B5"
+            android:text="@string/button_text"
+            android:textColor="@android:color/background_light"/>
+    </RelativeLayout>
+</android.support.constraint.ConstraintLayout>
