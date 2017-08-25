@@ -8,33 +8,47 @@
     tools:context="com.example.emmaw.myapplication.MainActivity">
 
     <RelativeLayout
-        android:layout_width="336dp"
+        android:layout_width="368dp"
         android:layout_height="592dp"
+        android:layout_marginEnd="24dp"
+        android:layout_marginRight="8dp"
         android:background="#26ade0"
-        tools:layout_editor_absoluteX="0dp"
-        tools:layout_editor_absoluteY="0dp">
+        app:layout_constraintRight_toRightOf="parent"
+        tools:layout_editor_absoluteY="-41dp">
 
         <TextView
             android:id="@+id/heading"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_centerHorizontal="true"
             android:text="@string/heading_text"
             android:textAlignment="textStart"
             android:textColor="@android:color/black"
             android:textSize="20sp"
-            android:textStyle="bold"/>
+            android:textStyle="bold"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginRight="27dp"
+            android:layout_marginEnd="27dp"
+            android:layout_marginTop="43dp"/>
 
         <ImageView
             android:id="@+id/image_eightBall"
-            android:layout_width="wrap_content"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginBottom="105dp"
             app:srcCompat="@drawable/ball1"/>
 
         <Button
             android:id="@+id/ask_id"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="38dp"
             android:background="#3F51B5"
             android:text="@string/button_text"
             android:textColor="@android:color/background_light"/>
