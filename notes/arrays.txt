@@ -1,0 +1,19 @@
+float[] theVals = new float[3];
+theVals[0] = 10.0f;
+
+float sum = 0.0f;
+
+for(int i = 0; i < theVals.length; i++)
+  sum += theVals[i];
+
+
+ float[] theVals = { 10.0f, 20.0f, 15.0f };
+
+ for(float currentVal : theVals)
+  sum += currentVal;
+
+  parallel arrays
+  double[] leftVals = {100.0d, 25.d, 225.0d, 11.0d};
+  double[] rightVals = {50.0d, 92.0d, 17.0d, 3.0d};
+  char[] opCodes = {'d', 'a', 's', 'm'};
+  double[] results = new double[opCodes.length];

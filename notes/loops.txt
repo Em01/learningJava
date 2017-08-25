@@ -1,0 +1,13 @@
+* While
+
+while (condition)
+  statement;
+
+* Do-while always executes at least once
+do {
+
+} while ()
+
+* for
+for (initialize; condition; update)
+  statement;

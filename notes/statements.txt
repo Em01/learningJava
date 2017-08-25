@@ -29,3 +29,17 @@ else
   ...;
 
 -variables within a block have local scope
+
+* Switch
+
+switch(1val % 2) {
+  case 0;
+    ...
+    break;
+  case 1;
+    ...
+    break;
+  default:
+    ...
+    break;
+}
