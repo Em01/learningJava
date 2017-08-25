@@ -1,6 +1,7 @@
 rollButton.setOnClickListener(new View.OnClickListener() {
   @Override
   public void onCLick(View v) {
-  
+
+    Log.d("app", "it has been clicked");
   }
 });
