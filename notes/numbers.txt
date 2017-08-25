@@ -1,0 +1,4 @@
+* Random
+
+Random randomNumberGenerator = new Random();
+int number = randomNumberGenerator.nextInt(6) //sets upper bound
