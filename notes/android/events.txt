@@ -1,0 +1,6 @@
+rollButton.setOnClickListener(new View.OnClickListener() {
+  @Override
+  public void onCLick(View v) {
+  
+  }
+});
